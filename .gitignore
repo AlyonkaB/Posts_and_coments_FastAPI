@@ -56,3 +56,5 @@ htmlcov/
 # FastAPI-specific ignores
 *.pid
 instance/
+requirements.txt~
+test.posts
